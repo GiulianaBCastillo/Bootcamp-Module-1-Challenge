@@ -1,8 +1,13 @@
+/* all global properties */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
+
+/* main css properties */
 
 body {
     background-color: #d9dcd6;
@@ -41,10 +46,13 @@ body {
     margin-left: 25px;
 }
 
+/* links properties */
 a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* fonts properties */
 
 p {
     font-size: 16px;
